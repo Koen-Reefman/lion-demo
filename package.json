@@ -10,7 +10,8 @@
     "start": "web-dev-server"
   },
   "dependencies": {
-    "@lion/ui": "^0.4.1",
+    "@lion/ui": "^0.11.4",
+    "@webcomponents/scoped-custom-element-registry": "^0.0.10",
     "lit": "^2.0.2"
   },
   "devDependencies": {
